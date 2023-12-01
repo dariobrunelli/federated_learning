@@ -1,0 +1,11 @@
+hdf5storage
+yacs
+codecarbon
+tensorboardX
+torchvision==0.10.0
+flwr==1.5.0
+matplotlib==3.8.0
+tqdm==4.66.1
+opencv-python
+scipy==1.9.1
+scikit-image==0.20.0
